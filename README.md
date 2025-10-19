@@ -21,3 +21,8 @@ The application is built with a modern web stack and uses Google's Gemini AI mod
     3.  Each flow processes the text using a specialized prompt sent to the Gemini model.
     4.  The AI returns a structured JSON response for each analysis type.
     5.  The frontend receives the data and displays the summary, bias analysis, and insights in their respective tabs.
+
+Screenshots:
+<img width="1080" height="676" alt="2025-10-19_20-14-42" src="https://github.com/user-attachments/assets/9b472692-4b46-4819-b95b-f574815346bf" />
+
+<img width="1400" height="749" alt="2025-10-19_20-17-12" src="https://github.com/user-attachments/assets/adf13e87-8eca-4eae-9ddd-2db2f4a235dc" />
